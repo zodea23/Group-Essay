@@ -12,7 +12,7 @@
 <param title="United Nations" eid="Q1065" aliases="UN">
 <param title="UDHR" eid="Q7813" aliases="United Declaration of Human Rights">
 
-# A History of the Kogi(Kogui) People
+# The Kogi(Kogui) Tribe
 ## History of the Kogi People
 The Kogi tribe is one of the few tribes that are in Colombia. They are the descendants of an ancient civilization called the Tayrona. Notable points in the Kogi’s history in relation to land start with Spain in the 15th century. The Spanish were the first dominant sovereignty the Kogi encountered, and conquistadores drove the Kogi higher up into the mountains to stay in isolation for centuries. Although, they have lost most of their middle to lower ancestral land because of colonization. In the 1960s, the Kogi’s land was taken over by the drug trade and the violence it brought with it. In 2009 the Kogi reoccupied the Santa Clara river basin and built their first intercultural school.[^3]
 <param ve-image 
