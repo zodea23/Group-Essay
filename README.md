@@ -15,12 +15,12 @@
 # A History of the Kogi(Kogui) People
 ## History of the Kogi People
 The Kogi tribe is one of the few tribes that are in Colombia. They are the descendants of an ancient civilization called the Tayrona. Notable points in the Kogi’s history in relation to land start with Spain in the 15th century. The Spanish were the first dominant sovereignty the Kogi encountered, and conquistadores drove the Kogi higher up into the mountains to stay in isolation for centuries. Although, they have lost most of their middle to lower ancestral land because of colonization. In the 1960s, the Kogi’s land was taken over by the drug trade and the violence it brought with it. In 2009 the Kogi reoccupied the Santa Clara river basin and built their first intercultural school. 
-<param ve-map center="Q26728" zoom="11" prefer-geojson>2
 <param ve-image 
        label="Kogui Village" 
        description="photo by Romain Bréget" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Kogui_village.JPG">
+<param ve-map center="Q26728" zoom="11" prefer-geojson>2
 
 ## The Kogi People and Their Fight for Land Rights
 From the 1970’s the Kogi have secured legal recognition for 650,000 hectares of ancestral land in three indiginous reserves. However this is not always the case, circa 2014 a group of businessmen and politicians planned to build a sea port in a sacred site. The Kogi filed a consultation to argue construction would affect the ecological health of the valley as well as being a sacred site for the Kogi. The Kogi did a lot of research on the impact this port will have on the local environment of the Sierra Nevada, however the court concluded that the construction would not harm the indigineous people of the Sierra Nevada. Kogi people were unable to present their environmental argument in front of court and therefore construction continues. Furthermore, the Kogi were pressured into signing an agreement for compensation but this agreement contradicts Kogi law. However, in 2016 the Colombian president signed a peace agreement to help preserve Kogi lands and help the environment; 150 hectares have been protected in the Caribbean coast. On the other hand, rapid construction development is still occuring, and this fact questions the effectiveness of the peace agreement and how closely it is being followed. 
