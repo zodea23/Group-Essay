@@ -55,10 +55,10 @@ The environmental challenges that the tribe face also mirror a lot of what the w
 
 
 # References
-[“Kogi in Colombia.” Joshua Project: People Groups of the World. Joshua project, 2022.](https://joshuaproject.net/people_groups/11402/CO.)
-[Reddy, Jini. “What Colombia's Kogi People Can Teach Us About the Environment.” The Guardian. Guardian News and Media, October 29, 2013.](https://www.theguardian.com/sustainable-business/colombia-kogi-environment-destruction.)
-[Reichel-Dolmatoff, Gerardo. “Kogi.” Encyclopedia.com. Encyclopedia.com, October 25, 2022.](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/kogi.)
-[Soltani, Atossa. “The Kogi of Colombia: An Urgent Call from Guardians of the Heart of the World.” Cultural Survival, March 10, 2014.](https://www.culturalsurvival.org/publications/cultural-survival-quarterly/kogi-colombia-urgent-call-guardians-heart-world#:~:text=The%20Kogi%20were%20one%20of,for%20centuries%20in%20relative%20isolation.)
+[^1]:[“Kogi in Colombia.” Joshua Project: People Groups of the World. Joshua project, 2022.](https://joshuaproject.net/people_groups/11402/CO.)
+[^2]:[Reddy, Jini. “What Colombia's Kogi People Can Teach Us About the Environment.” The Guardian. Guardian News and Media, October 29, 2013.](https://www.theguardian.com/sustainable-business/colombia-kogi-environment-destruction.)
+[^3]:[Reichel-Dolmatoff, Gerardo. “Kogi.” Encyclopedia.com. Encyclopedia.com, October 25, 2022.](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/kogi.)
+[^4]:[Soltani, Atossa. “The Kogi of Colombia: An Urgent Call from Guardians of the Heart of the World.” Cultural Survival, March 10, 2014.](https://www.culturalsurvival.org/publications/cultural-survival-quarterly/kogi-colombia-urgent-call-guardians-heart-world#:~:text=The%20Kogi%20were%20one%20of,for%20centuries%20in%20relative%20isolation.)
 
 
 
