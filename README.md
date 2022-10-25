@@ -37,8 +37,6 @@ The environmental challenges that the tribe face also mirror a lot of what the w
 
 ## 6
 The UN has funded the OGT (Gonawindu Tayrona Organisation) to help the Kogi upkeep a successful coffee trade. Coffee is a central part of Kogi culture, both spiritually and economically. This support from the UN allows the Kogi to keep sovereignty of their trade and business, this prevents middlemen taking advantage of their artistry and business. 
-
-## Image
 <param ve-image 
        label="Kogui Village" 
        description="photo by Romain Bréget" 
