@@ -12,7 +12,7 @@
 <param title="United Nations" eid="Q1065" aliases="UN">
 <param title="UDHR" eid="Q7813" aliases="United Declaration of Human Rights">
 
-# Brief History of the Kogi People
+# A History of the Kogi(Kogui) People
 ## 0
 The Kogi tribe is one of the few tribes that are in Colombia. They are the descendants of an ancient civilization called the Tayrona. In the 15th century, because of Spanish conquistadores, they moved higher up into the mountains to stay in isolation for centuries. Although, they have lost most of their middle to lower ancestral land because of colonization. The population size of the Kogi people is about 20,000 people and their main language is Kogi. In their language, “Kogi” means ‘jaguar’. Their belief is in the “Mother” which is what they call their goddess or creator.
 <param ve-map center="Q26728" zoom="11" prefer-geojson>2
@@ -66,4 +66,15 @@ The UN has funded the OGT (Gonawindu Tayrona Organisation) to help the Kogi upke
        url="https://upload.wikimedia.org/wikipedia/commons/9/99/Arhuacos_En_Bogot%C3%A1_100_A%C3%B1os_De_La_Primera_Visita_%28178418911%29.jpeg">
 
 # References
+
+[^ref1]:
+[^ref2]:
+[^ref3]:
+[^ref4]:
+[^ref5]:
+
+
+
+
+
 
