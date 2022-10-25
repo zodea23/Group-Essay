@@ -52,26 +52,26 @@ The above events could give reason that Colombia has violated the Kogi’s human
 ## 4
 Their values toward the Earth are very nature related. They believe in spirituality and cosmology. They use meditation, ritual offerings, songs, and prayers to connect to the sacred sites. The mountain range where they live, they see as a living entity that was created by Sezhankwa. Sezhankwa created all the people who live there in their tribe and before the land was created, it existed in the spiritual world. They hold the belief that they are the guardians of the heart of the Earth and that it is their job to protect the earth from the ‘younger brothers’. They classify ‘younger brothers’ as non-indigenous people. They live to care for the world.
 <param ve-image 
-       label="Kogui Village" 
-       description="photo by Romain Bréget" 
+       label="Kogui" 
+       description="photo by Mäůřıçîö Bolaño" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Kogui_village.JPG">
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0a/KOGUI.jpg">
 
 ## 5
 The environmental challenges that the tribe face also mirror a lot of what the whole world is facing. Although, the Kogi tribe has tried to make positive changes. Such as, they came out of isolation in 1990, to warn others about how the earth and environment are being destroyed. They expressed how Sierra Nevada is mirroring the rest of the world. They said that they witnessed landslides, floods, deforestation, drying up of rivers, and lakes, bare tops of mountains and the dying of trees. They said these are terrible signs and everyone must change their ways before it is too late. Although, unfortunately, many people did not listen or heed to the words of the tribe.
 <param ve-image 
-       label="Kogui Village" 
-       description="photo by Romain Bréget" 
+       label="Kogui Hut" 
+       description="photo by Thomas Dahlberg" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Kogui_village.JPG">
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Kogisiedlung.jpg">
 
 ## 6
 The UN has funded the OGT (Gonawindu Tayrona Organisation) to help the Kogi upkeep a successful coffee trade. Coffee is a central part of Kogi culture, both spiritually and economically. This support from the UN allows the Kogi to keep sovereignty of their trade and business, this prevents middlemen taking advantage of their artistry and business. 
 <param ve-image 
-       label="Kogui Village" 
-       description="photo by Romain Bréget" 
+       label="Arhuacos En Bogotá 100 Años De La Primera Visita" 
+       description="Conmmeomration of 100 years of the first visit of the arhuacos indigenous to Bogota from Sierra Nevada. Six months walking on the road to claim to colombian president for rights, autonomy and independency. Photo by Jusezam." 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Kogui_village.JPG">
+       url="https://upload.wikimedia.org/wikipedia/commons/9/99/Arhuacos_En_Bogot%C3%A1_100_A%C3%B1os_De_La_Primera_Visita_%28178418911%29.jpeg">
 
 ## Map
 
