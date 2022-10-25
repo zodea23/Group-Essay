@@ -15,11 +15,7 @@
 # Brief History of the Kogi People
 ## 0
 The Kogi tribe is one of the few tribes that are in Colombia. They are the descendants of an ancient civilization called the Tayrona. In the 15th century, because of Spanish conquistadores, they moved higher up into the mountains to stay in isolation for centuries. Although, they have lost most of their middle to lower ancestral land because of colonization. The population size of the Kogi people is about 20,000 people and their main language is Kogi. In their language, “Kogi” means ‘jaguar’. Their belief is in the “Mother” which is what they call their goddess or creator.
-<param ve-image 
-       label="Kogui Village" 
-       description="photo by Romain Bréget" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Kogui_village.JPG">
+<param ve-map center="Q26728" zoom="11" prefer-geojson>2
 
 ## 1
 Notable points in the Kogi’s history in relation to land start with Spain. The Spanish were the first dominant sovereignty the Kogi encountered, this drove the Kogi up the mountains to live in isolation but they lost ownership of their valley. In the 1960’s the Kogi’s land was taken over by the drug trade and the violence it brought with it.  In 2009 the Kogi reoccupied the Santa Clara river basin and built their first intercultural school.
@@ -68,11 +64,6 @@ The UN has funded the OGT (Gonawindu Tayrona Organisation) to help the Kogi upke
        description="Conmmeomration of 100 years of the first visit of the arhuacos indigenous to Bogota from Sierra Nevada. Six months walking on the road to claim to colombian president for rights, autonomy and independency. Photo by Jusezam." 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/9/99/Arhuacos_En_Bogot%C3%A1_100_A%C3%B1os_De_La_Primera_Visita_%28178418911%29.jpeg">
-
-## Map
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>2
 
 # References
 
