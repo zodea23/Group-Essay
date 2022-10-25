@@ -12,10 +12,6 @@
 <param title="United Nations" eid="Q1065" aliases="UN">
 <param title="UDHR" eid="Q7813" aliases="United Declaration of Human Rights">
 
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-
-
 # Brief History of the Kogi People
 ## 0
 The Kogi tribe is one of the few tribes that are in Colombia. They are the descendants of an ancient civilization called the Tayrona. In the 15th century, because of Spanish conquistadores, they moved higher up into the mountains to stay in isolation for centuries. Although, they have lost most of their middle to lower ancestral land because of colonization. The population size of the Kogi people is about 20,000 people and their main language is Kogi. In their language, “Kogi” means ‘jaguar’. Their belief is in the “Mother” which is what they call their goddess or creator.
@@ -80,4 +76,3 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
